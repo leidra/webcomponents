@@ -1,8 +1,8 @@
-# Web componentszxxasdas
+# Web components
 
 Son componentes HTML construidos utilizando estándares web. Permiten extender el lenguaje HTML encapsulando la visualización y el comportamiento.
 
-Están basados en 4 especificaciones:
+## Están basados en 4 especificaciones:
 
  - Custom Elements - 
 	Define cómo construir y utilizar nuevos elementos del DOM.
@@ -13,7 +13,7 @@ Están basados en 4 especificaciones:
  - Html Template -
 	Define cómo declarar fragmentos de marcado HTML que no son interpretados en la carga de la página sino posteriormmente bajo demanda.
 
-Ejemplo de uso
+## Ejemplo de uso
 
 Dentro de la etiqueta <head>:
 
